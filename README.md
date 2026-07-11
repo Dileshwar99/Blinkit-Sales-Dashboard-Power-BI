@@ -84,7 +84,7 @@ Displays detailed product and outlet-level information for deeper analysis.
 Example:
 
 ```
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 ```
 
 ---
