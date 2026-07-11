@@ -78,13 +78,8 @@ Displays detailed product and outlet-level information for deeper analysis.
 ---
 
 ## 📷 Dashboard Preview
+![Uploading dashboard.png.png…]()
 
-> Add a screenshot of your dashboard here.
-
-Example:
-
-```
-![Dashboard](dashboard.png.png)
 ```
 
 ---
